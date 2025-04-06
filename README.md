@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Krizzz-48/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Krizzz-48/leetcode/tree/master/0020-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Krizzz-48/leetcode/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Krizzz-48/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

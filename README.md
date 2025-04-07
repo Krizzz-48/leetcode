@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krizzz-48/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
 | [0932-monotonic-array](https://github.com/Krizzz-48/leetcode/tree/master/0932-monotonic-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Krizzz-48/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krizzz-48/leetcode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

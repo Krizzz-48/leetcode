@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krizzz-48/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 | [0932-monotonic-array](https://github.com/Krizzz-48/leetcode/tree/master/0932-monotonic-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Krizzz-48/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Krizzz-48/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Krizzz-48/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Krizzz-48/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -46,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Krizzz-48/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Krizzz-48/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

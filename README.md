@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Krizzz-48/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/Krizzz-48/leetcode/tree/master/0932-monotonic-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Krizzz-48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Krizzz-48/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Krizzz-48/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Krizzz-48/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0932-monotonic-array](https://github.com/Krizzz-48/leetcode/tree/master/0932-monotonic-array) |
 | [1137-height-checker](https://github.com/Krizzz-48/leetcode/tree/master/1137-height-checker) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Krizzz-48/leetcode/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/Krizzz-48/leetcode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |

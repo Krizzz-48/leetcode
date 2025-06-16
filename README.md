@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Krizzz-48/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Krizzz-48/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Krizzz-48/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Krizzz-48/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0932-monotonic-array](https://github.com/Krizzz-48/leetcode/tree/master/0932-monotonic-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Krizzz-48/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krizzz-48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krizzz-48/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Krizzz-48/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Krizzz-48/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Krizzz-48/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Krizzz-48/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krizzz-48/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Krizzz-48/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krizzz-48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Krizzz-48/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Krizzz-48/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Krizzz-48/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Krizzz-48/leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Krizzz-48/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Krizzz-48/leetcode/tree/master/1137-height-checker) |

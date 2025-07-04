@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Krizzz-48/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Krizzz-48/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/Krizzz-48/leetcode/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Krizzz-48/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Krizzz-48/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krizzz-48/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
 | [3468-find-the-encrypted-string](https://github.com/Krizzz-48/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Binary Search
 |  |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Krizzz-48/leetcode/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->

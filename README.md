@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Krizzz-48/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krizzz-48/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/Krizzz-48/leetcode/tree/master/0742-to-lower-case) |
 | [3468-find-the-encrypted-string](https://github.com/Krizzz-48/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Binary Search
 |  |

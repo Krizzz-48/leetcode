@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Krizzz-48/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Krizzz-48/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/Krizzz-48/leetcode/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |

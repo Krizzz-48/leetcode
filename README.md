@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Krizzz-48/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Krizzz-48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Krizzz-48/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krizzz-48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Krizzz-48/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Krizzz-48/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
@@ -138,12 +140,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Krizzz-48/leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
+| [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Krizzz-48/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Krizzz-48/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->

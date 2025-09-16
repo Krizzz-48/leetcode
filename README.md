@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Krizzz-48/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Krizzz-48/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Krizzz-48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Krizzz-48/leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Krizzz-48/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/Krizzz-48/leetcode/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krizzz-48/leetcode/tree/master/0020-valid-parentheses) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Krizzz-48/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->

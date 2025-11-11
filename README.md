@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Krizzz-48/leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->

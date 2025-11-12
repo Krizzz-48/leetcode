@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Krizzz-48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Krizzz-48/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Krizzz-48/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/Krizzz-48/leetcode/tree/master/2383-add-two-integers) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Krizzz-48/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Krizzz-48/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Database
 |  |
 | ------- |

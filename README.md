@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Krizzz-48/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Krizzz-48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2625-increment-submatrices-by-one](https://github.com/Krizzz-48/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Krizzz-48/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3790-fruits-into-baskets-ii](https://github.com/Krizzz-48/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krizzz-48/leetcode/tree/master/0238-product-of-array-except-self) |
+| [2625-increment-submatrices-by-one](https://github.com/Krizzz-48/leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Krizzz-48/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Matrix
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/Krizzz-48/leetcode/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->

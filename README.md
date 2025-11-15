@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Krizzz-48/leetcode/tree/master/0742-to-lower-case) |
 | [3468-find-the-encrypted-string](https://github.com/Krizzz-48/leetcode/tree/master/3468-find-the-encrypted-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Krizzz-48/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Krizzz-48/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krizzz-48/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Krizzz-48/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/Krizzz-48/leetcode/tree/master/2625-increment-submatrices-by-one) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Krizzz-48/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->

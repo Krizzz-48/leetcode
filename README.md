@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Krizzz-48/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Krizzz-48/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Krizzz-48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Krizzz-48/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2625-increment-submatrices-by-one](https://github.com/Krizzz-48/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |

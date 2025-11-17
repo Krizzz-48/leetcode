@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Krizzz-48/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krizzz-48/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Krizzz-48/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Krizzz-48/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/Krizzz-48/leetcode/tree/master/2383-add-two-integers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Krizzz-48/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Krizzz-48/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Krizzz-48/leetcode/tree/master/0742-to-lower-case) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Krizzz-48/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3468-find-the-encrypted-string](https://github.com/Krizzz-48/leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Krizzz-48/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Krizzz-48/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |

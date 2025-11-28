@@ -1,35 +1,30 @@
 class Solution {
-    ArrayList<Integer>[] adj;
-    public int maxKDivisibleComponents(int n, int[][] edges, int[] values, int k) {
-        adj = new ArrayList[n];
-        ans = 0;
-        for(int i = 0; i < n; i++) adj[i] = new ArrayList<>();
-
-        for(int[] edge: edges){
-            adj[edge[0]].add(edge[1]);
-            adj[edge[1]].add(edge[0]);
+    int res;
+    ArrayList<ArrayList<Integer>>adj;
+    long DFS(int node, int parent, int[] values, int k){
+        long total = values[node];
+        for (int nei : adj.get(node)){
+            if (nei == parent)
+                continue;
+            total += DFS(nei, node, values, k);
         }
-        
-        boolean[] visit = new boolean[n];
-        for(int i = 0; i < n; i++){
-            if(!visit[i]){
-                dfsDiv(i, visit, k, values);
-            }
+        if (total % k == 0){
+            res++;
+            return 0;
         }
-        return ans;
+        return total;
     }
-    int ans;
-    public int dfsDiv(int node, boolean[] visit, int k, int[] values){
-        visit[node] = true;
-        int div = values[node]%k;
-
-        for(int nxt: adj[node]){
-            if(!visit[nxt]){
-                div += dfsDiv(nxt, visit, k, values);
-            }
+    public int maxKDivisibleComponents(int n, int[][] edges, int[] values, int k) {
+        adj = new ArrayList<>();
+        for (int i = 0; i < n; i++){
+            adj.add(new ArrayList<>());
         }
-        div %= k;
-        if(div == 0) ans++;
-        return div;
+        for (int[] e : edges){
+            adj.get(e[0]).add(e[1]);
+            adj.get(e[1]).add(e[0]);
+        }
+        res = 0;
+        DFS(0, -1, values, k);
+        return res;
     }
 }

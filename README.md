@@ -192,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Krizzz-48/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Krizzz-48/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Krizzz-48/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->

@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Krizzz-48/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krizzz-48/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krizzz-48/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Krizzz-48/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Krizzz-48/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Krizzz-48/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Krizzz-48/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Krizzz-48/leetcode/tree/master/0742-to-lower-case) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Krizzz-48/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Krizzz-48/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3468-find-the-encrypted-string](https://github.com/Krizzz-48/leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Krizzz-48/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Krizzz-48/leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Krizzz-48/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Krizzz-48/leetcode/tree/master/1137-height-checker) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Krizzz-48/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Counting Sort
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Krizzz-48/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Krizzz-48/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Matrix
 |  |
